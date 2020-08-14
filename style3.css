@@ -1,0 +1,12 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+
+.link:hover{opacity:0.6;}
+
+.score-text{font-size:14px;}
+.score-value{font-size:36px;}
+
+body{background-color: #aaa; margin:auto}
+#main{max-width:600px;margin:auto}
+#direct{max-width:600px;margin-top:15vh;}
+
+.btn{margin-top:10vh;width:100%;}
