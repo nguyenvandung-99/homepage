@@ -7,6 +7,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 body{background-color: #ccc; margin:auto}
 #main{max-width:600px;margin:auto}
-#direct{max-width:600px;margin-top:10vh;}
+#direct{max-width:600px;margin-top:5vh;}
 
 .btn{margin-top:10vh;width:100%;}
